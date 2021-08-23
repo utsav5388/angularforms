@@ -1,0 +1,12 @@
+ {
+    "Payment methods": [
+        {
+            "Money order":"1",
+            "PayPal express checkout":"2",
+            "Beanstream":"3",
+            "Stripe":"4",
+            "Braintree":"5"
+
+        }
+    ]
+ }
